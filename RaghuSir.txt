@@ -1,0 +1,10 @@
+Q. find the next greatest no.
+i/p="123"
+o/p="132"
+
+
+i/p="1433"
+o/p="3134"
+
+i/p="120"
+o/p="201"
